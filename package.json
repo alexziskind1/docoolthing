@@ -1,6 +1,6 @@
 {
   "name": "docoolthing",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,9 @@
   },
   "author": "",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexziskind1/docoolthing"
+  },
   "dependencies": {}
 }
