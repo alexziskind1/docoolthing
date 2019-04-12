@@ -1,5 +1,5 @@
 export class CoolThing {
     public sayHi() {
-        alert('Hello');
+        alert('Hello1');
     }
 }
